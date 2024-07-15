@@ -1,5 +1,6 @@
 *.tar.gz
 *.tar.zst
+auto-update.sh
 pkg/
 src/
 python-argbind-git/
