@@ -1,6 +1,6 @@
 pkgbase = python-argbind-git
 	pkgdesc = Build CLIs via docstrings and type annotations, with YAML support (built from latest commit)
-	pkgver = 0.3.9.r112.e3e0b8d
+	pkgver = r112.e3e0b8d
 	pkgrel = 1
 	url = https://github.com/pseeth/argbind/
 	arch = x86_64
